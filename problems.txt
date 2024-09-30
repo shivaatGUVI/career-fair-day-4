@@ -1,0 +1,33 @@
+1. Given an input n, print a right angle triangle of stars
+n = 5;
+*
+**
+***
+****
+*****
+
+2. Given an input n, print a inverted right angle triangle of stars
+n = 5;
+*****
+****
+***
+**
+*
+
+3. Given an input n, print a inverted right angle triangle of number
+n = 4
+1
+12
+123
+1234
+
+4. Given an integer array and it's length, find the largest element in an array
+
+5. Given a sorted integer array and it's length, find the missing number in an array
+
+6. Given an array and it's length, reverse an array
+
+7. Given a string consisting of alphabetical characters and it's length, count vowels and consonants
+
+8. Given a string consisting of alphabetical characters and it's length, print all non-repeating characters as a string
+"swiss" -> "wi"
